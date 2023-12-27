@@ -14,4 +14,3 @@ str3 = ' '.join(list1)
 
 print(str3)
 
-print(list1)
