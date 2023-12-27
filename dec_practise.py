@@ -17,4 +17,3 @@ df_2 = spark.createDataFrame(data=data, schema=schema)
 # Show the DataFrame
 df_2.show()
 
-df3 = 
