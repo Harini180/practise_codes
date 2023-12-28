@@ -14,3 +14,19 @@ Given the list of repeatring numbers,returning the first and last position of th
 
 ### Task-5 reverse_each_substring
 Reverse each sub string in the given string. 
+
+### Task-6 even_number_position_list
+Given a list of numbers, rerturning the numbers in even position in the list.
+
+### Task-7 first_letter_substring_as_string
+GIven a string, retuening the first letter of sub string present in the whole string as a string.
+
+###Task-8 handling_variable_columns
+Given a CSV file (employee_sample.csv) without headers.
+Transforming the csv file into a dataframe along with headers and placing the column values correctly within the respective columns.
+
+### Task-9 remove_double_quotes_json_string
+Given a dataframe with the jsin string as a column. Extracting the column values into separate columns and also removing the double quotes present within the string column.
+
+### Task-10 
+
