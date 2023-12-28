@@ -28,5 +28,7 @@ Transforming the csv file into a dataframe along with headers and placing the co
 ### Task-9 remove_double_quotes_json_string
 Given a dataframe with the jsin string as a column. Extracting the column values into separate columns and also removing the double quotes present within the string column.
 
-### Task-10 
+### Task-10 sum_of_max_elements_in_sub_list
+Given a collection of lists within a list.
+Identiofy the maximum value among each sub-list and sum the maximum values.
 
